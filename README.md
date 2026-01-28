@@ -26,7 +26,7 @@ Formado em Analise e Desenvolvimento de Sistemas (02/2023 - 12/2024).
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7AA2F7&width=700&speed=200&lines=public+class+Main+%7B;++++public+static+void+main(String%5B%5D+args)+%7B;++++++++System.out.println(%22Hello,+World!%22);++++%7D;%7D" />
 
-<br>
+
 ###  FrontEnd 🌐:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
