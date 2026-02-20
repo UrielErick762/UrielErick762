@@ -8,13 +8,11 @@ Estudante de Engenharia de Software pela Universidade Mogi das Cuzes (Conclusão
 Formado em Analise e Desenvolvimento de Sistemas (02/2023 - 12/2024). 
 <br>
 
-<div>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielErick762&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UrielErick762&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Uriel Erick GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrielErick762&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-</div>
+![Uriel Erick GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UrielErick762&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800)
+
 
 <br>
 
